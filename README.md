@@ -1,2 +1,2 @@
 # DEMO GitHub 
-Course Learning
+GitHub training for Project
